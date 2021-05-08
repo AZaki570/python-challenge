@@ -1,0 +1,11 @@
+Election Results
+----------------------------
+Total Votes: {total_votes}
+----------------------------
+Khan: {khan_percent:.3f}% ({khan_votes})
+Correy: {correy_percent:.3f}% ({correy_votes})
+Li: {li_percent:.3f}% ({li_votes})
+O'Tooley: {otooley_percent:.3f}% ({otooley_votes})
+----------------------------
+Winner: {key}
+----------------------------
